@@ -10,7 +10,7 @@
 	<description>This pom acts as the parent pom for the entire project.</description>
 
 	<properties>
-		<spring-core-version>4.1.6.RELEASE</spring-core-version>
+		<spring-core-version>4.1.7.RELEASE</spring-core-version>
 		<spring-aop-version>4.1.6.RELEASE</spring-aop-version>
 	</properties>
 
@@ -153,7 +153,7 @@
 			<dependency>
 				<groupId>junit</groupId>
 				<artifactId>junit</artifactId>
-				<version>4.10</version>
+				<version>4.13.1</version>
 				<scope>test</scope>
 			</dependency>
 			<dependency>
